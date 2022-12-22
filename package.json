@@ -1,0 +1,23 @@
+{
+  "name": "gulp-label",
+  "version": "1.0.0",
+  "description": "Set \"displayName\" property to the task function for gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabayashi/gulp-label.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Eiki Tabayashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabayashi/gulp-label/issues"
+  },
+  "homepage": "https://github.com/tabayashi/gulp-label#readme",
+  "type": "module"
+}
